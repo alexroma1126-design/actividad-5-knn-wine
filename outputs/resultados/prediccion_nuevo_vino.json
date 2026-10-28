@@ -1,0 +1,11 @@
+{
+    "tipo": "ejemplo_sintetico",
+    "clase_predicha": 0,
+    "k": 29,
+    "fraccion_votos": {
+        "0": 1.0,
+        "1": 0.0,
+        "2": 0.0
+    },
+    "nota": "La etiqueta real es desconocida. No es una evaluacion."
+}

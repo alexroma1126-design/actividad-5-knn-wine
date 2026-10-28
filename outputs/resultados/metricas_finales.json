@@ -1,0 +1,31 @@
+{
+    "dataset": "Wine",
+    "mejor_k": 29,
+    "accuracy_cv": 0.9788177339901478,
+    "accuracy_test": 0.9722222222222222,
+    "balanced_accuracy": 0.9761904761904763,
+    "precision_macro": 0.9743589743589745,
+    "recall_macro": 0.9761904761904763,
+    "f1_macro": 0.974320987654321,
+    "n_train": 142,
+    "n_test": 36,
+    "aciertos": 35,
+    "errores": 1,
+    "matriz_confusion": [
+        [
+            12,
+            0,
+            0
+        ],
+        [
+            1,
+            13,
+            0
+        ],
+        [
+            0,
+            0,
+            10
+        ]
+    ]
+}

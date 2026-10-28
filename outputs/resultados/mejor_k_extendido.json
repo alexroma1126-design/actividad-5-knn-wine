@@ -1,0 +1,13 @@
+{
+    "dataset": "Wine",
+    "rango_k": [
+        1,
+        60
+    ],
+    "cv_folds": 5,
+    "random_state": 42,
+    "mejor_k": 29,
+    "accuracy_cv": 0.9788177339901478,
+    "criterio_empate": "menor K",
+    "test_evaluado": false
+}

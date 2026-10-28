@@ -1,0 +1,27 @@
+﻿# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos serializados
+*.pkl
+*.joblib
+
+# Notebook original del profesor
+Iris Classification with k-Nearest Neighbors.ipynb
+
+# Archivos locales
+.DS_Store
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.xdv
+*.synctex.gz
